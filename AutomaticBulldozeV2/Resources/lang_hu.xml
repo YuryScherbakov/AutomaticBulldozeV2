@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language Name="Magyar">
+<LocaleResource Name="Elhagyott Épületek Bontása Bekapcsol">
+<Value>Elhagyottak Lebontása</Value>
+</LocaleResource>
+<LocaleResource Name="Leégettek Bontása Kapcsoló">
+<Value>Leégettek Bontása</Value>
+</LocaleResource>
+</Language>
